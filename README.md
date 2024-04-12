@@ -1,8 +1,8 @@
 # Reproducible Research Course Project 2
 
-**Mourad Dahmani**
+**Jeffrey M. Hunter**
 
-April 11, 2024
+April 27, 2019
 
 ## Project
 
